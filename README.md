@@ -21,15 +21,12 @@ seaborn
 All required libraries are pre-installed in Google Colab.
 
 How to Run the Analysis
-  Open the notebook customer_sales_analysis.ipynb in Google Colab.
-  Upload the provided CSV files (customers.csv, transactions.csv, products.csv) if not already present.
-  Run the notebook cells sequentially from top to bottom.
-  Review the outputs, visualizations, and written markdown explanations included in the notebook.
+    1. Open the notebook customer_sales_analysis.ipynb in Google Colab.
+    2. Upload the provided CSV files (customers.csv, transactions.csv, products.csv) if not already present.
+    3. Run the notebook cells sequentially from top to bottom.
+    4. Review the outputs, visualizations, and written markdown explanations included in the notebook.
 
 Notes
-
 Revenue calculations are based on the final transaction value (calculated_total) to reflect actual customer spend.
-
 Segmentation uses simple, rule-based logic for interpretability and business relevance.
 
-The most recent months of data may be incomplete and are noted as a caveat in the analysis.
